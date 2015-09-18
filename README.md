@@ -1,0 +1,2 @@
+# LocalLogin
+use passport strategy
