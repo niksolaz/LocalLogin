@@ -1,0 +1,24 @@
+{
+  "name": "LocalLogin",
+  "version": "1.0.0",
+  "description": "use local login",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niksolaz/LocalLogin.git"
+  },
+  "keywords": [
+    "nodejs",
+    "passport"
+  ],
+  "author": "nik solaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niksolaz/LocalLogin/issues"
+  },
+  "homepage": "https://github.com/niksolaz/LocalLogin"
+}
